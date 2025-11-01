@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": 1730412000010,
+    "name": "Monitor Curvo 27 pulgadas",
+    "price": 349.99,
+    "quantity": 25
+  },
+  {
+    "id": 1730412000020,
+    "name": "Teclado Mecánico RGB",
+    "price": 89.5,
+    "quantity": 50
+  },
+  {
+    "id": 1730412000030,
+    "name": "Mouse Inalámbrico Ergonómico",
+    "price": 35,
+    "quantity": 120
+  },
+  {
+    "id": 1730412000040,
+    "name": "Disco Duro SSD 1TB",
+    "price": 115.99,
+    "quantity": 40
+  }
+]
