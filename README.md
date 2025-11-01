@@ -47,7 +47,7 @@ Para iniciar el servidor y probar la API:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/kserey/skillnest-m6_ae5_abpro.git](https://github.com/kserey/skillnest-m6_ae5_abpro.git)
+    git clone https://github.com/kserey/skillnest-m6_ae5_abpro.git
     cd skillnest-m6_ae5_abpro
     ```
 2.  **Instalar dependencias:**
